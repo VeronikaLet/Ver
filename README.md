@@ -1,5 +1,5 @@
-$ E=mc^2 $
-Ghbdtn
+$E=mc^2$
+#sGhbdtn
 #  A first-level heading
 ##  A second-level heading
 ### A third-level heading
