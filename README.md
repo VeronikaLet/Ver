@@ -1,3 +1,4 @@
+$ E=mc^2 $
 Ghbdtn
 #  A first-level heading
 ##  A second-level heading
