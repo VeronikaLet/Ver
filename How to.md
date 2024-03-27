@@ -2,4 +2,4 @@
 1. Установить обсидиан https://obsidian.md/2/
 2.  Установить сублиме мерге https://www.sublimemerge.com/
 3.  Открыть см и склонировать репозиторий
-4. ![[Pasted image 20240327123223.png]]
+4. ![](Image/Pasted%20image%2020240327123223.png)
